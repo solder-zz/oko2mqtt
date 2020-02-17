@@ -1,0 +1,11 @@
+[device]
+imei=000000000000
+
+[mqtt]
+login=mqtt_login
+pass=mqtt_pass
+host=192.168.1.1
+
+[socket]
+host=192.168.1.1
+port=8989
